@@ -34,5 +34,4 @@ Created an elbow plot to identify the best number of clusters.
 
 ### Part 4: Made a Recommendation
 
-Unfortunately The whole output doesn’t make that much since and from the elbow plot we can see that there is roughly two or three clusters. Can't make a clear recomandation but from the scotter plots we can tell that TSNE is not a good option!
-
+Unfortunately the whole output doesn’t make that much sense, and from the elbow plot we can see that there is roughly two or three clusters. Can't make a clear recomandation but from the scotter plots we can tell that TSNE is not a good option!
