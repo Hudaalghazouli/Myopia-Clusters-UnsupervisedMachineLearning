@@ -5,6 +5,7 @@ I applied what I learned about unsupervised learning by fitting data to a model 
 ## Breaking down the project into four parts:
 
 * Part 1: Prepared the Data
+*
 * Part 2: Applied Dimensionality Reduction 
 
 * Part 3: Performed a Cluster Analysis with K-means
