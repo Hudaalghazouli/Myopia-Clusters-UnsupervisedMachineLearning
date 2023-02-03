@@ -1,5 +1,8 @@
 # Myopia Clusters
-
+Z
+V
+J
+H
 I applied what I learned about unsupervised learning by fitting data to a model and using clustering algorithms to place data into groups. Then, I created a visualization that shared my findings.
 
 ## Breaking down the project into four parts:
